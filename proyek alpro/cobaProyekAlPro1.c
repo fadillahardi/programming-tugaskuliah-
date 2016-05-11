@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 main()
 {
@@ -32,5 +33,5 @@ main()
 	//return totalSKS;
 	}
 	printf("total sks anda: %d",totalSKS);
-	return totalSKS;
+	return (totalSKS);
 }
